@@ -1,0 +1,17 @@
+{
+  "name": "Primeira_API_NODE",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sousa-gabriel/Primeira_API_NODE.git",
+  "author": "Gabriel Rocha <sousa-gabriel@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev":"nodemon src/index.js"
+    },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
